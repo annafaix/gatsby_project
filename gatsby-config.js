@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `FAIX - Drevený nábytok`,
-    description: `Kick off your next, great Gatsby project with this default starter.`,
+    description: `Výroba dreveného nábytku podla želania.`,
     author: `Anna Nyström Faix`,
   },
   plugins: [
